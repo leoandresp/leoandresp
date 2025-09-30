@@ -1,5 +1,4 @@
-
-<h1 align="center"><b>Hola, soy Leonardo Polanco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Leonardo Polanco </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Leonardo+A+Polanco+Navas..&hearts;++;Data+Engineer,;Electronic+Engineer,;;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -7,15 +6,15 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p align="center">
   <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px>
   
-  - Apasionado por la ingeniería de datos, el análisis de datos y la automatización de procesos.
-  - Amplio conocimiento en herramientas como SQL, Python, procesos ETL/ELT, Excel avanzado y la G Suite.
-  - Líder de un grupo de voluntarios dedicado al descubrimiento de talentos.
-  - Director de 404 Academy.
+  - Passionate about data engineer, data analysis and process automation
+  - Extensive knowledge in tools such as SQL, Python, ETL/ELT Processs, and Advanced Excel and the Google Suite
+  - Leader of a group of volunteers dedicated to discovering talents
+  - Director of 404 Academy
 </p>
 
 <br>
@@ -24,11 +23,11 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
 
-**Lenguajes:**
+**Languages:**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -36,7 +35,7 @@
 
 <br><br>
 
-**Librerías y Herramientas de Data Engineering y Análisis:**
+**Data-Engineer and Analysis Libraries and Tools:**
 <br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-EE4D2B?style=flat&logo=matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -50,7 +49,7 @@
 
 <br><br>
 
-**Bases de Datos:**
+**Databases:**
 <br>
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -60,14 +59,14 @@
 
 <br><br>
 
-**Plataformas Cloud:**
+**Cloud Platform:**
 <br>
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 <br><br>
 
-**Software y Herramientas:**
+**Softwares and Tools:**
 <br>
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -91,7 +90,7 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de Github </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
   <a href="https://github.com/0xabdulkhalid/">
@@ -105,7 +104,7 @@
 
 <br>
 
-## <b> ¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 <div align='center'>
   <a href="https://www.linkedin.com/in/leonardo-polanco-navas" target="_blank">
@@ -127,6 +126,6 @@
 
 <br>
 
-Crédito: [Leonardo Polanco](https://github.com/leoandresp)
+Credit: [Leonardo Polanco](https://github.com/leoandresp)
 
-Última edición: 30/09/2024
+Last Edited on: 30/09/2024
