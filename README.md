@@ -54,9 +54,10 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Cloud Platform**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![AWS]([https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
     
 <br>
 
