@@ -17,8 +17,8 @@
 
 <br>
 
-- Passionate about data analysis and process automation
-- Extensive knowledge in tools such as SQL, Python, Power BI and Advanced Excel and the Google Suite
+- Passionate about data engineer, data analysis and process automation
+- Extensive knowledge in tools such as SQL, Python, ETL/ELT Processs, and Advanced Excel and the Google Suite
 - Leader of a group of volunteers dedicated to discovering talents
 - Director of 404 Academy
 
@@ -34,12 +34,13 @@
 - **Languages**:
     
      ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+     ![R](https://img.shields.io/badge/R-F78C00?logo=r&logoColor=white)
    
 
 <br>   
     
-- **Data-Analyst librarys and Tools**:
+- **Data-Enginerr and Analys librarys and Tools**:
 
    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
